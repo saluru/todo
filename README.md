@@ -1,6 +1,6 @@
 # todo
 
-My First Project.
+My First Project
 
 ## Getting Started
 Install the module with: `npm install todo`
